@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+</head>
+<style >
+    
+.div1{
+        width: 300px;
+        height: 900px;
+        border:2px solid black;
+        float: left;
+        margin-left: 28%;
+        border-right:none;
+        background-color: #ffffff;
+
+
+    }
+    .div2{
+        width: 300px;
+        height: 900px;
+        border:2px solid black;
+        float: right;
+        margin-right: 26.5%;
+        background-color: #cccccc;
+     }
+
+    .div2 h3{
+        text-align: center;
+        color:#000000;
+        font-family: monospace;
+        font-size:16px;
+
+    }
+    .div2 p{
+        text-align: center;
+        color:#000000;
+        font-family: Helvetica;
+        font-size:14px;
+      }
+
+    .div1 ul{
+        text-align: left;
+        color:#000000;
+        font-family: Helvetica;
+        font-size:14px;
+
+    }
+    .div1 ol{
+        text-align: left;
+        color:#000000;
+        font-family: Helvetica;
+        font-size:14px;
+
+    }
+    .div1 h3{
+        text-align:center;
+        font-family:monospace;
+        font-size:16px;
+        color:#000000;
+    }
+    .div1 p{
+        text-align: center;
+        font-family: Helvetica;
+        font-size:14px;
+        color:#000000;
+
+    }
+
+    img{
+        margin-left: 15%;
+        margin-rigt: 25%;
+        margin-top: 15%;
+    }
+
+</style>
+<body>
+
+<div class="div1">
+    
+<img src="https://simg.nicepng.com/png/small/52-521023_download-free-icon-female-vectors-blank-facebook-profile.png"
+style="width:170px;height:200px;">
+<h3><b><u>CONTACT</u></b></h3>
+<p>+94 711 652 133</p>
+<p>+94 789 242 938</p>
+<p>dulanjaleeomesha2000@gmail.com</p>
+<p>No.1, <br> Railway Cross Road,<br>
+Thissa Mawatha, <br> Pullayara
+Junction ,<br> Anuradhapura,<br> Sri
+Lanka.</p>
+<p style= "font-size:12px" ><b>AGE-21 years</b></p>
+<h3><b><u>SKILLS</u></b></h3>
+<ul>
+    <li>Good Communication
+skill</li>
+    <li>Problem Solving Skills</li>
+    <li>Positive Attitude</li>
+    <li>Leadership- Self
+Confidence</li>
+    <li>Working well Under
+Pressure
+</li>
+    <li>Effective Time
+Management</li>
+</ul>
+<h3><b><u>HOBBIES</u></b></h3>
+<ol>
+    <li>Book reading</li>
+    <li>Watching movies</li>
+</ol>
+</div>
+
+<div class="div2">
+    <h3><b>PROFILE</b></h3>
+    <p>A friendly individual and a continuous learner who likes to
+ be update with the current technology. Forward thinking
+and proven ability and proven ability to build creative ideas.</p>
+<h3><b><u>PERSONAL DETAILS</u></b></h3>
+<p>Name : K.L. Omesha Dulanjalee Kariyawasam</p>
+<p>Date of Birth : 17th March 2000</p>
+<p>National ID No : 200057700586</p>
+<p>School Attended : Central College Anuradhapura</p>
+
+<h3><b><u>EDUCATIONAL QUALIFICATIONS</u></b></h3>
+<p><b>❖ GCE(O/L) 2016 – INDEX NO: 61916390 (ENGLISH
+MEDIUM)</b></p>
+<table id="table1">
+<tr>
+<td>Sinhala Language</td>
+<td>: A </td> 
+</tr>
+<tr>
+<td>Buddhism</td>
+<td>: A</td>
+</tr>
+<tr>
+<td>English Language</td>
+<td>: A</td>
+</tr>
+<tr>
+<td>Mathematics</td>
+<td>: A</td>
+</tr>
+<tr>
+<td>History</td>
+<td>: A</td>
+</tr>
+<tr>
+<td>Information Technology</td>
+<td>: A</td>
+</tr>
+<tr>
+<td>Tamil Language</td>
+<td>: B</td>
+</tr>
+<tr>
+<td>English Literature</td>
+<td>: B</td>
+</tr>
+<tr>
+<td>Science</td>
+<td>: C</td>
+</tr>
+</table>
+<p><b>❖ GCE(A/L) 2020 – INDEX NO: 2931715 (ENGLISH
+MEDIUM)</b></p>
+<table id="table2">
+<tr>
+<td>Combined Maths</td>         
+<td style="padding-left:50px;">: S</td>
+</tr>
+<tr>
+<td>Physics</td>                
+<td style="padding-left:50px;">: S</td>
+</tr>
+<tr>
+<td>Chemistry</td>              
+<td style="padding-left:50px;">: S</td>
+</tr>
+</table>
+
+<h3><b><u>PROFESSIONAL QUALIFICATIONS</u></b></h3>
+<ul>
+<li>Reading for a Degree in softwear engineering at Open University.</li>
+</ul>
+</div>
+
+</body>
+</html>
+
